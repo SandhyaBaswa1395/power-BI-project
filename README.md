@@ -1,1 +1,2 @@
 # power-BI-project
+Developed an interactive Power BI dashboard to provide revenue insights for the hospitality domain. Utilized data on hotel properties, room categories, and booking details to ensure data integrity and accuracy. Applied advanced DAX for calculations and built clear visualizations to spot important revenue trends. The dashboard helped stakeholders understand booking patterns and revenue performance better, making it easier to make informed decisions. This project also made data reporting more efficient.
